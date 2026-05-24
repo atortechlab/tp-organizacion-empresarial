@@ -30,7 +30,4 @@ Tecnologías utilizadas
 - GitHub
 - Jira
 
-Cómo ejecutar
-1. Abrir el proyecto en Google Colab
-2. Ejecutar el script dentro de /scripts
-3. Ver resultados en /resultados
+
