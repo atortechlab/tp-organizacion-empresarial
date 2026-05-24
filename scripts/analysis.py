@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-df = pd.read_csv("../datos/sales.csv")
+df = pd.read_csv("datos/sales.csv")
 
 df["Total"] = df["Cant"] * df["Precio"]
 
@@ -22,8 +22,8 @@ plt.title("Ventas por producto")
 plt.xlabel("Prod")
 plt.ylabel("Total vendido")
 
-plt.savefig("../resultados/grafico_ventas.png")
+plt.savefig("resultados/grafico_ventas.png")
 
-ventas_producto.to_csv("../resultados/resumen_ventas.csv")
+ventas_producto.to_csv("resultados/resumen_ventas.csv")
 
 print("Análisis finalizado")
