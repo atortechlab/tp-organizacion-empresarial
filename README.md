@@ -1,6 +1,7 @@
-TRABAJO PRÁCTICO: GESTIÓN COLABORATIVA, CONTROL DE VERSIONES Y ORGANIZACIÓN EMPRESARIAL (Git, GitHub y Jira) 
+TRABAJO PRÁCTICO: 
+GESTIÓN COLABORATIVA, CONTROL DE VERSIONES Y ORGANIZACIÓN EMPRESARIAL (Git, GitHub y Jira) 
 
-TITULO DEL PROYECTO
+TITULO DEL PROYECTO: "Análisis de ventas"
 
 ● INTEGRANTE DEL EQUIPO
   Ator, Elizabeth
@@ -9,28 +10,27 @@ TITULO DEL PROYECTO
 Análisis de Ventas
 
 ● DESCRIPCIÓN DEL DATASET UTILIZADO
-Este proyecto analiza datos de ventas utilizando Python, GitHub, Git y Jira.
+El proyecto analiza datos de ventas utilizando Python, GitHub, Git y Jira.
 
 ● INSTRUCCIONES BÁSICAS PARA EJECUTAR EL SCRIPT #tp-organizacion-empresarial
 
-## Estructura del proyecto
+Estructura del proyecto
 
 - /datos → datasets utilizados
 - /scripts → scripts Python
 - /resultados → gráficos y resultados
 
-- ## Dataset utilizado
+- Dataset utilizado
 Dataset de ventas simulado en formato CSV.
 
-## Tecnologías utilizadas
+Tecnologías utilizadas
 - Python
 - Google Colab
 - Git
 - GitHub
 - Jira
 
-## Cómo ejecutar
-
+Cómo ejecutar
 1. Abrir el proyecto en Google Colab
 2. Ejecutar el script dentro de /scripts
 3. Ver resultados en /resultados
