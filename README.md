@@ -18,7 +18,7 @@ Estructura del proyecto
 
 - /datos → datasets utilizados
 - /scripts → scripts Python
-- /resultados → gráficos y resultados
+- /resultados → gráficos y resultados de as ventas
 
 - Dataset utilizado
 Dataset de ventas simulado en formato CSV.
@@ -31,9 +31,3 @@ Tecnologías utilizadas
  GitHub
  Jira
 
-
-
-SCRUM-6 actualizado
-SCRUM-6 actualizado
-SCRUM-6 actualizado
-SCRUM-6 actualizado
