@@ -24,10 +24,11 @@ Estructura del proyecto
 Dataset de ventas simulado en formato CSV.
 
 Tecnologías utilizadas
-- Python
-- Google Colab
-- Git
-- GitHub
-- Jira
+ Python
+ Google Colab
+ Git
+ GitHub
+ Jira
+
 
 
