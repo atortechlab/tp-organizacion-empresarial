@@ -33,3 +33,4 @@ Tecnologías utilizadas
 
 
 
+SCRUM-6 actualizado
