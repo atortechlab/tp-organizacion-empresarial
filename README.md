@@ -31,3 +31,4 @@ Tecnologías utilizadas
  GitHub
  Jira
 
+SCRUM-6 actualizado
