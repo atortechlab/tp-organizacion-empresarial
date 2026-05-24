@@ -37,3 +37,4 @@ SCRUM-6 actualizado
 SCRUM-6 actualizado
 SCRUM-6 actualizado
 SCRUM-6 actualizado
+SCRUM-6 actualizado
