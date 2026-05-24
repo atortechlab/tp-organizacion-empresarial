@@ -26,6 +26,7 @@ Dataset de ventas simulado en formato CSV.
 Tecnologías utilizadas
  Python
  Google Colab
+ Jira
  Git
  GitHub
  Jira
